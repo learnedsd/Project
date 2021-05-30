@@ -1,11 +1,11 @@
-#Project outline 
+# Project outline 
 
-##Goals for this data visualization
+## Goals for this data visualization
 * Discover the relationship between country and sale
 
 
 
-##main interactive visualization
+## main interactive visualization
 
-##the main conclusion.
+## the main conclusion.
 
