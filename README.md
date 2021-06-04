@@ -1,4 +1,4 @@
-# Study on Airbnb Traveler’s Preference in New York Area by Using Data Visualization
+# Study on Airbnb in New York Area by Using Data Visualization
 
 ![Image of Airbnb](https://pbs.twimg.com/profile_images/1347611654968627200/ikpfoFQj.png)
 
