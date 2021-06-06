@@ -1,6 +1,8 @@
 # Study on Airbnb in New York Area by Using Data Visualization
 
-<center>![Image of Airbnb](https://pbs.twimg.com/profile_images/1347611654968627200/ikpfoFQj.png)<center>
+<p align="center">
+    ![Image of Airbnb](https://pbs.twimg.com/profile_images/1347611654968627200/ikpfoFQj.png)
+</p>
 
 ## Goals for this data visualization
 * Which neighborhood has the most Airbnb hosts?
