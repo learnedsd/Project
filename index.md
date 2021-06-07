@@ -15,7 +15,7 @@
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/chenshengwen/viz/Book1_16227770760480/Sheet1" width = '650' height = '450' scrolling='yes' ></iframe>
 
-
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_16227770760480/Sheet1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>    
 
 ## The Main Conclusion
 
