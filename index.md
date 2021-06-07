@@ -14,7 +14,7 @@
 ## Main Interactive Visualization
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/chenshengwen/viz/Book1_16227770760480/Sheet1" width = '650' height = '450' scrolling='yes' ></iframe>
-
+<img width="200" src="https://public.tableau.com/app/profile/chenshengwen/viz/Book1_16227770760480/Sheet1" alt="Image of tableau">
 ## The Main Conclusion
 
 * The nighborhood
