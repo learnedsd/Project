@@ -6,7 +6,8 @@
 ## Goals for this data visualization
 * Which neighborhood has the most Airbnb hosts?
 * If some neighborhood has the most Airbnb host, does this neighborhood have a higher average price?
-* What is the most important feature to predict price?
+* Is travelers more concern with price or the review?
+
 
 
 
@@ -16,3 +17,6 @@
 
 ## The Main Conclusion
 
+* The nighborhood
+* The higher average price is 
+* Travelers more concern with 
