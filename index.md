@@ -15,7 +15,8 @@
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/chenshengwen/viz/Book1_16227770760480/Sheet1" width = '650' height = '450' scrolling='yes' ></iframe>
 
-<iframe seamless frameborder="0" src="https://github.com/learnedsd/Project/blob/main/pie.html" width = '650' height = '450' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://github.com/learnedsd/Project/blob/main/pie.html" ></iframe>
+
 ## The Main Conclusion
 
 * The nighborhood
