@@ -14,6 +14,8 @@
 ## Main Interactive Visualization
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/chenshengwen/viz/Book1_16227770760480/Sheet1" width = '650' height = '450' scrolling='yes' ></iframe>
+
+<a href="https://github.com/learnedsd/Project/blob/main/pie.html">pie</a>
 ## The Main Conclusion
 
 * The nighborhood
