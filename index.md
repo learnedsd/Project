@@ -3,6 +3,7 @@
 <p align="center">
     <img width="200" src="https://i.pinimg.com/originals/b3/2a/f4/b32af410be8257b815d16d9ef0f01aa7.gif" alt="Image of Airbnb">
 </p>
+
 ## Goals for The Data Visualization
 
 * Which neighborhood has the most Airbnb hosts?
