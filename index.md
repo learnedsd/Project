@@ -6,9 +6,12 @@
 
 ## Goals for The Data Visualization
 
-* Which neighborhood has the most Airbnb hosts?
-* If some neighborhood has the most Airbnb host, does this neighborhood have a higher average price?
-* Is travelers more concern with price or the review?
+* What is the lowest price in each New York area neighborhood (from 08/07/2018- 04/07/2021)?
+* What is the highest number of reviews in each neighborhood (from 08/07/2018- 04/07/2021)
+* What are the popular rooms? (from 08/07/2018- 04/07/2021)
+* Which neighborhood has increased the number of rooms listed on Airbnb during the pandemic (from 08/07/2018- 04/07/2021)?
+* Why has this neighborhood increased the number of rooms listed (from 08/07/2018- 04/07/2021)?
+* What are the most popular room types within that neighborhood (from 08/07/2018- 04/07/2021)?
 
 
 
